@@ -1,0 +1,2 @@
+made by [Ziguan](https://github.com/ziguanl4660) and [Jimmy](https://github.com/jimmyo6270)
+Our [outline](https://docs.google.com/drawings/d/1d9OrwxjDkiOdVOmsD6oI2AQX63maqKrp7XsAUZmZg30/edit?usp=sharing)
