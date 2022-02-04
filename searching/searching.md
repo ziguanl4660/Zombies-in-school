@@ -1,0 +1,1 @@
+[You sneak around and investigate the room](#sneak-around-and-investigate-the-room)
