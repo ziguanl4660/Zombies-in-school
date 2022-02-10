@@ -1,0 +1,1 @@
+You stop running and start throwing things behind you at the hoard. You buy some time and you [run back to where you started coincidentally.](../README.md)
