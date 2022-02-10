@@ -1,1 +1,1 @@
-You turn the corner and you continue walking. You then realize that you actually [walked back to the start.](../README.md)
+You turn the corner and you continue walking. You then realize that you actually [walked back to the start.](./README.md)
